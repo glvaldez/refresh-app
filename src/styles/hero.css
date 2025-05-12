@@ -1,0 +1,32 @@
+.hero {
+  padding: 6rem 1rem;
+  background-color: var(--bg-secondary);
+  margin-top: var(--header-height);
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.hero-content h1 {
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+  color: var(--text-primary);
+}
+
+.hero-content p {
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+}
+
+.start-reading-btn {
+  background-color: var(--accent-color);
+  color: var(--text-primary);
+  padding: 1rem 2rem;
+  border-radius: 25px;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
