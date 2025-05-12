@@ -1,0 +1,9 @@
+:root {
+  --bg-primary: #121212;
+  --bg-secondary: #1e1e1e;
+  --text-primary: #ffffff;
+  --text-secondary: #b3b3b3;
+  --accent-color: #1a8917;
+  --header-height: 65px;
+  --footer-height: 80px;
+}
